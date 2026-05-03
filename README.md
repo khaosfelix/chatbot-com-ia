@@ -1,6 +1,6 @@
 # Chatbot com IA
 
-Projeto em Python com Streamlit e OpenAI para criar um chatbot com interface web personalizada, histórico de conversa em tempo real e resposta gerada por IA.
+> Aplicação web em Python com Streamlit e OpenAI API para criação de chatbot com interface personalizada, histórico de conversa e estilização própria.
 
 ## Visão geral
 
@@ -19,6 +19,14 @@ Mais do que um exercício técnico, este projeto também explora a combinação 
 - Integração com a API da OpenAI
 - Botão para limpar a conversa
 - Estilização personalizada com CSS dentro do Streamlit
+
+## Demonstração
+
+Em breve: print da interface e/ou link da aplicação publicada.
+
+## Cuidados de segurança
+
+A chave da API deve ser armazenada em `.streamlit/secrets.toml` e nunca publicada no GitHub. 
 
 ## Tecnologias utilizadas
 
