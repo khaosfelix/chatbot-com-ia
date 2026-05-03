@@ -10,6 +10,10 @@ A aplicação permite que o usuário envie mensagens em um chat, acompanhe o his
 
 Mais do que um exercício técnico, este projeto também explora a combinação entre funcionalidade, identidade visual e organização de código, mostrando como uma aplicação simples pode ganhar mais presença quando há cuidado com usabilidade e apresentação.
 
+## Demonstração
+
+![Interface do chatbot com IA](assets/chatbot-interface.PNG)
+
 ## Principais funcionalidades
 
 - Interface web construída com Streamlit
